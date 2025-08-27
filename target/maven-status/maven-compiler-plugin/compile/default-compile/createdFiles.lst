@@ -1,0 +1,7 @@
+com\example\microservices\dtos\ProductOrderDTO.class
+com\example\microservices\repositories\OrderRepository.class
+com\example\microservices\controllers\testController.class
+com\example\microservices\domain\Product.class
+com\example\microservices\OrderServiceApplication.class
+com\example\microservices\entities\Orders.class
+com\example\microservices\services\OrderService.class
